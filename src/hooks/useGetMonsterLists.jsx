@@ -9,7 +9,6 @@ export const useGetMonsterLists = () => {
 
     if (response.ok) {
       dispatch({ type: "SET_MONSTERLISTS", payload: json });
-      console.log(json)
     }
   };
 

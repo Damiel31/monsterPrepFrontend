@@ -8,6 +8,7 @@ export default {
         "secondary-color": "#637381",
         "ocean-blue": "#3758F9",
         "field-green": "#17972C",
+        "ashe-gray": "#DFE4EA",
       },
     },
   },
